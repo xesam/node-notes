@@ -1,0 +1,7 @@
+{
+  "name": "3rd",
+  "version": "1.0.0",
+  "dependencies": {
+    "portfinder": "1.0.17"
+  }
+}
